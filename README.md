@@ -17,5 +17,5 @@ I implemented a symmetry-detection network as described in the paper. It checks 
 
 ## Files
 PAPER_NOTES.md : contains details about the claim, metric, dataset and architecture.  
-src/backpropagation.py : contains the solution
+src/backpropagation.py : contains the solution  
 results/ : this folder contains the terminal output
